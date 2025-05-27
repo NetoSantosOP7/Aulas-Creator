@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Gerador de Aulas</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <button class="theme-toggle" id="themeToggle">🌓</button>
+    <h1>📝 Gerador de Aulas</h1>
+    <div class="container">
+      <div class="card data-disciplina-card">
+        <div class="form-group">
+          <label for="data">Data da Aula</label>
+          <div class="date-picker-container">
+            <input type="date" id="data" class="date-input" />
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label for="disciplina">Disciplina</label>
+          <select
+            id="disciplina"
+            onchange="mostrarBotoesSelecionar();"
+          ></select>
+        </div>
+      </div>
+
+      <div id="selecao-habilidade" class="card hidden">
+        <div class="card-header">
+          <div class="card-icon">🎯</div>
+          <h2 class="card-title">Habilidades</h2>
+        </div>
+        <div class="button-group">
+          <button onclick="toggleHabilidades()" id="btnToggleHabilidades">
+            🔽 Selecionar Habilidade
+          </button>
+          <button
+            onclick="mostrarInputNovo('habilidade')"
+            class="button-secondary"
+          >
+            ➕ Nova Habilidade
+          </button>
+        </div>
+        <div id="habilidadesContainer" class="hidden select-container">
+          <select id="habilidade" class="hidden"></select>
+          <textarea
+            id="habilidade-selecionada"
+            placeholder="A habilidade selecionada aparecerá aqui..."
+            rows="3"
+          ></textarea>
+          <div class="input-extra" id="inputExtra-habilidade"></div>
+        </div>
+      </div>
+
+      <div id="selecao-objeto" class="card hidden">
+        <div class="card-header">
+          <div class="card-icon">📖</div>
+          <h2 class="card-title">Objeto do Conhecimento</h2>
+        </div>
+        <div class="objetos-container">
+          <div class="button-group">
+            <button onclick="toggleObjetos()" id="btnToggleObjetos">
+              🔽 Selecionar Objeto
+            </button>
+            <button
+              onclick="mostrarInputNovo('objeto')"
+              class="button-secondary"
+            >
+              ➕ Novo Objeto
+            </button>
+          </div>
+          <select
+            id="objetosPredefinidos"
+            onchange="selecionarObjeto(this.value)"
+            class="hidden"
+          >
+            <option value="">
+              Selecione um objeto do conhecimento ou digite abaixo...
+            </option>
+          </select>
+          <textarea
+            id="objeto"
+            rows="4"
+            placeholder="Descreva o objeto do conhecimento ou selecione acima..."
+          ></textarea>
+          <div class="input-extra" id="inputExtra-objeto"></div>
+        </div>
+      </div>
+
+      <div id="selecao-procedimento" class="card hidden">
+        <div class="card-header">
+          <div class="card-icon">🛠️</div>
+          <h2 class="card-title">Procedimentos Metodológicos</h2>
+        </div>
+        <div class="procedimentos-container">
+          <div class="button-group">
+            <button onclick="toggleProcedimentos()" id="btnToggleProcedimentos">
+              🔽 Selecionar Procedimento
+            </button>
+            <button
+              onclick="mostrarInputNovo('procedimento')"
+              class="button-secondary"
+            >
+              ➕ Novo Procedimento
+            </button>
+          </div>
+          <select
+            id="procedimentosPredefinidos"
+            onchange="selecionarProcedimento(this.value)"
+            class="hidden"
+          >
+            <option value="">
+              Selecione um procedimento ou digite abaixo...
+            </option>
+            <option value="Leitura de mesa">Leitura de mesa</option>
+            <option value="Explanação do conteúdo que será estudado">
+              Explanação do conteúdo que será estudado
+            </option>
+            <option value="Atividade em sala, no livro didático">
+              Atividade em sala, no livro didático
+            </option>
+            <option value="Atividade para casa, no caderno">
+              Atividade para casa, no caderno
+            </option>
+            <option value="Explicação do conteúdo trabalhado">
+              Explicação do conteúdo trabalhado
+            </option>
+            <option
+              value="Atividades no livro didático, em sala de aula e para casa"
+            >
+              Atividades no livro didático, em sala de aula e para casa
+            </option>
+            <option value="Atividades xerocopiadas">
+              Atividades xerocopiadas
+            </option>
+            <option value="Correção das atividades">
+              Correção das atividades
+            </option>
+            <option value="Atividade em sala e para casa">
+              Atividade em sala e para casa
+            </option>
+            <option value="Explanação do tema trabalhado">
+              Explanação do tema trabalhado
+            </option>
+            <option value="Atividade em sala, sobre o assunto estudado">
+              Atividade em sala, sobre o assunto estudado
+            </option>
+            <option value="Atividade extra classe">
+              Atividade extra classe
+            </option>
+          </select>
+          <textarea
+            id="procedimento"
+            rows="4"
+            placeholder="Descreva os procedimentos metodológicos ou selecione acima..."
+          ></textarea>
+          <div class="input-extra" id="inputExtra-procedimento"></div>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-header">
+          <div class="card-icon">📋</div>
+          <h2 class="card-title">Atividades Realizadas</h2>
+        </div>
+        <div class="atividades-container">
+          <select
+            id="atividadesPredefinidas"
+            onchange="selecionarAtividade(this.value)"
+          >
+            <option value="">
+              Selecione uma atividade predefinida ou digite abaixo...
+            </option>
+            <option value="Leitura">Leitura</option>
+            <option value="Explicação do assunto trabalhado">
+              Explicação do assunto trabalhado
+            </option>
+            <option value="Atividade em sala com o uso do livro">
+              Atividade em sala com o uso do livro
+            </option>
+            <option value="Atividade para casa, no caderno">
+              Atividade para casa, no caderno
+            </option>
+            <option value="Folha xerocopiada">Folha xerocopiada</option>
+            <option value="Leitura de mesa">Leitura de mesa</option>
+            <option value="Correção das atividades anteriores">
+              Correção das atividades anteriores
+            </option>
+            <option value="Atividade em sala, no livro didático">
+              Atividade em sala, no livro didático
+            </option>
+            <option value="Atividade para casa, na folha xerocopiada">
+              Atividade para casa, na folha xerocopiada
+            </option>
+            <option value="Correção da atividade anterior">
+              Correção da atividade anterior
+            </option>
+            <option value="Atividade na folha xerocopiada, para casa">
+              Atividade na folha xerocopiada, para casa
+            </option>
+            <option value="Explicação do conteúdo">
+              Explicação do conteúdo
+            </option>
+            <option value="Atividade em sala, sobre o tema">
+              Atividade em sala, sobre o tema
+            </option>
+            <option value="Atividade extra sala">Atividade extra sala</option>
+          </select>
+          <div style="position: relative; display: inline-block; width: 100%">
+            <textarea
+              id="atividades"
+              rows="4"
+              placeholder="Descreva as atividades realizadas em aula ou selecione acima..."
+              style="width: 100%; padding-bottom: 30px"
+            ></textarea>
+
+            <button
+              style="
+                position: absolute;
+                bottom: 8px;
+                right: 5px;
+                padding: 4px 8px;
+                font-size: 12px;
+                cursor: pointer;
+              "
+              onclick="startRecognition('atividades')"
+            >
+              Falar🎤
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <button
+        id="btnSegundaDisciplina"
+        style="background-color: var(--accent-color); margin-bottom: 1rem"
+      >
+        ➕ Segunda Disciplina
+      </button>
+
+      <button
+        id="btnGerarTexto"
+        disabled
+        style="background-color: var(--success-color)"
+      >
+        ✨ Gerar Texto
+      </button>
+
+      <div class="card output" id="resultado">
+        <div style="margin-bottom: 1rem">
+          <h3>Resultado da 1ª Disciplina</h3>
+          <textarea
+            id="resultado1"
+            style="width: 100%; min-height: 150px"
+          ></textarea>
+          <button onclick="copiarTexto('resultado1')">📋 Copiar texto</button>
+        </div>
+
+        <div>
+          <h3>Resultado da 2ª Disciplina</h3>
+          <textarea
+            id="resultado2"
+            style="width: 100%; min-height: 150px"
+          ></textarea>
+          <button onclick="copiarTexto('resultado2')">📋 Copiar texto</button>
+        </div>
+      </div>
+
+      <div id="pdf-export" style="display: none; margin-top: 1rem">
+        <input
+          type="text"
+          id="nomeArquivo"
+          placeholder="Nome do arquivo (sem .pdf)"
+          style="padding: 6px; width: 200px"
+        />
+        <button onclick="baixarPDF()">📄 Baixar PDF</button>
+      </div>
+    </div>
+
+    <div
+      id="toast"
+      style="
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        background-color: #333;
+        color: #fff;
+        padding: 10px 16px;
+        border-radius: 6px;
+        opacity: 0;
+        transition: opacity 0.3s ease;
+        z-index: 1000;
+        font-size: 14px;
+      "
+    ></div>
+
+    <script src="script/script.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+  </body>
+</html>

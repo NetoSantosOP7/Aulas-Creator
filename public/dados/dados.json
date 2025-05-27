@@ -1,0 +1,981 @@
+{
+    "Matematica": {
+        "habilidades": [
+            {
+                "id": "EF02MA01",
+                "texto": "🧮 Comparar e ordenar números naturais (até a ordem de centenas) pela compreensão de características do sistema de numeração decimal (valor posicional e função do zero)."
+            },
+            {
+                "id": "EF02MA02",
+                "texto": "🧮 Fazer estimativas por meio de estratégias diversas a respeito da quantidade de objetos de coleções e registrar o resultado da contagem desses objetos (até 1000 unidades)."
+            },
+            {
+                "id": "EF02MA03",
+                "texto": "🧮 Comparar quantidades de objetos de dois conjuntos, por estimativa e/ou por correspondência (um a um, dois a dois, entre outros), para indicar 'tem mais', 'tem menos' ou 'tem a mesma quantidade', indicando, quando for o caso, quantos a mais e quantos a menos."
+            },
+            {
+                "id": "EF02MA04",
+                "texto": "🧮 Compor e decompor números naturais de até três ordens, com suporte de material manipulável, por meio de diferentes adições."
+            },
+            {
+                "id": "EF02MA05",
+                "texto": "🧮 Construir fatos básicos da adição e subtração e utilizá-los no cálculo mental ou escrito."
+            },
+            {
+                "id": "EF02MA06",
+                "texto": "🧮 Resolver e elaborar problemas de adição e de subtração, envolvendo números de até três ordens, com os significados de juntar, acrescentar, separar, retirar, utilizando estratégias pessoais ou convencionais."
+            },
+            {
+                "id": "EF02MA07",
+                "texto": "🧮 Resolver e elaborar problemas de multiplicação (por 2, 3, 4 e 5) com a ideia de adição de parcelas iguais por meio de estratégias e formas de registro pessoais, utilizando ou não suporte de imagens e/ou material manipulável."
+            },
+            {
+                "id": "EF02MA08",
+                "texto": "🧮 Resolver e elaborar problemas envolvendo dobro, metade, triplo e terça parte, com o suporte de imagens ou material manipulável, utilizando estratégias pessoais."
+            },
+            {
+                "id": "EF02MA09",
+                "texto": "🧮 Construir sequências de números naturais em ordem crescente ou decrescente a partir de um número qualquer, utilizando uma regularidade estabelecida."
+            },
+            {
+                "id": "EF02MA10",
+                "texto": "🧮 Descrever um padrão (ou regularidade) de sequências repetitivas e de sequências recursivas, por meio de palavras, símbolos ou desenhos."
+            },
+            {
+                "id": "EF02MA11",
+                "texto": "🧮 Descrever os elementos ausentes em sequências repetitivas e em sequências recursivas de números naturais, objetos ou figuras."
+            },
+            {
+                "id": "EF02MA12",
+                "texto": "📐 Identificar e registrar, em linguagem verbal ou não verbal, a localização e os deslocamentos de pessoas e de objetos no espaço, considerando mais de um ponto de referência, e indicar as mudanças de direção e de sentido."
+            },
+            {
+                "id": "EF02MA13",
+                "texto": "📐 Esboçar roteiros a ser seguidos ou plantas de ambientes familiares, assinalando entradas, saídas e alguns pontos de referência."
+            },
+            {
+                "id": "EF02MA14",
+                "texto": "📐 Reconhecer, nomear e comparar figuras geométricas espaciais (cubo, bloco retangular, pirâmide, cone, cilindro e esfera), relacionando-as com objetos do mundo físico."
+            },
+            {
+                "id": "EF02MA15",
+                "texto": "📐 Reconhecer, comparar e nomear figuras planas (círculo, quadrado, retângulo e triângulo), por meio de características comuns, em desenhos apresentados em diferentes disposições ou em sólidos geométricos."
+            },
+            {
+                "id": "EF02MA16",
+                "texto": "📏 Estimar, medir e comparar comprimentos de lados de salas (incluindo contorno) e de polígonos, utilizando unidades de medida não padronizadas e padronizadas (metro, centímetro e milímetro) e instrumentos adequados."
+            },
+            {
+                "id": "EF02MA17",
+                "texto": "📏 Estimar, medir e comparar capacidade e massa, utilizando estratégias pessoais e unidades de medida não padronizadas ou padronizadas (litro, mililitro, grama e quilograma)."
+            },
+            {
+                "id": "EF02MA18",
+                "texto": "📏 Indicar a duração de intervalos de tempo entre duas datas, como dias da semana e meses do ano, utilizando calendário, para planejamentos e organização de agenda."
+            },
+            {
+                "id": "EF02MA19",
+                "texto": "📏 Medir a duração de um intervalo de tempo por meio de relógio digital e registrar o horário do início e do fim do intervalo."
+            },
+            {
+                "id": "EF02MA20",
+                "texto": "📏 Estabelecer a equivalência de valores entre moedas e cédulas do sistema monetário brasileiro para resolver situações cotidianas."
+            },
+            {
+                "id": "EF02MA21",
+                "texto": "📊 Classificar resultados de eventos cotidianos aleatórios como 'pouco prováveis', 'muito prováveis', 'improváveis' e 'impossíveis'."
+            },
+            {
+                "id": "EF02MA22",
+                "texto": "📊 Comparar informações de pesquisas apresentadas por meio de tabelas de dupla entrada e em gráficos de colunas simples ou barras, para melhor compreender aspectos da realidade próxima."
+            },
+            {
+                "id": "EF02MA23",
+                "texto": "📊 Realizar pesquisa em universo de até 30 elementos, escolhendo até três variáveis categóricas de seu interesse, organizando os dados coletados em listas, tabelas e gráficos de colunas simples."
+            },
+            {
+                "id": "Sasukerutao Uchippudao",
+                "texto": "Ore wa Uchiha Sasuke"
+            }
+        ],
+        "objetos_conhecimento": [
+            "📏 Leitura, escrita e comparação de números naturais até 1000",
+            "📏 Sistema de numeração decimal",
+            "📏 Composição e decomposição de números",
+            "📏 Contagem e estimativa",
+            "📏 Regularidades no sistema numérico",
+            "📏 Dobro, triplo e metade",
+            "📏 Problemas de adição e subtração com diferentes significados",
+            "📏 Problemas envolvendo multiplicação e divisão (introdução)",
+            "📏 Cálculo mental e algoritmos informais",
+            "📏 Estimativas e arredondamentos",
+            "➕ Padrões e sequências (crescentes e decrescentes)",
+            "➕ Expressões numéricas com adição e subtração",
+            "➕ Propriedades das operações",
+            "➕ Problemas com relações de igualdade e desigualdade",
+            "➕ Introdução ao pensamento algébrico",
+            "📐 Figuras planas: identificação e classificação",
+            "📐 Formas geométricas no cotidiano",
+            "📐 Noções de simetria",
+            "📐 Descrição e localização de objetos no espaço",
+            "📐 Posições (em cima, embaixo, ao lado, à frente etc.)",
+            "🧊 Medidas de comprimento com unidades não padronizadas e padronizadas",
+            "🧊 Medidas de massa, tempo e temperatura (exploração inicial)",
+            "🧊 Leitura de horas inteiras e meias horas",
+            "🧊 Uso de instrumentos de medição",
+            "🧊 Estimativas e comparações de medidas",
+            "📊 Leitura e interpretação de dados em tabelas e gráficos simples",
+            "📊 Coleta de dados",
+            "📊 Organização e registro de informações",
+            "📊 Noções iniciais de chance e probabilidade"
+        ],
+        "procedimentos": [
+            "Leitura de mesa",
+            "Explanação do conteúdo que será estudado",
+            "Atividade em sala, no livro didático",
+            "Atividade para casa, no caderno",
+            "Explicação do conteúdo trabalhado",
+            "Atividades no livro didático, em sala de aula e para casa",
+            "Atividades xerocopiadas",
+            "Correção das atividades",
+            "Atividade em sala e para casa",
+            "Explanação do tema trabalhado",
+            "Atividade em sala, sobre o assunto estudado",
+            "Atividade extra classe"
+        ],
+        "atividades": [
+            "Leitura",
+            "Explicação do assunto trabalhado",
+            "Atividade em sala com o uso do livro",
+            "Atividade para casa, no caderno",
+            "Folha xerocopiada",
+            "Leitura de mesa",
+            "Correção das atividades anteriores",
+            "Atividade em sala, no livro didático",
+            "Atividade para casa, na folha xerocopiada",
+            "Correção da atividade anterior",
+            "Atividade na folha xerocopiada, para casa",
+            "Explicação do conteúdo",
+            "Atividade em sala, sobre o tema",
+            "Atividade extra sala"
+        ]
+    },
+    "Língua Portuguesa": {
+        "habilidades": [
+            {
+                "id": "EF02LP02",
+                "texto": "✍️ Segmentar palavras em sílabas e manipular sílabas para formar novas palavras."
+            },
+            {
+                "id": "EF02LP03",
+                "texto": "✍️ Ler e escrever palavras com correspondências regulares entre letras e sons, incluindo contextos específicos como 'c' e 'q'."
+            },
+            {
+                "id": "EF02LP04",
+                "texto": "✍️ Ler e escrever palavras com diferentes estruturas silábicas, reconhecendo a presença de vogais em todas as sílabas."
+            },
+            {
+                "id": "EF02LP05",
+                "texto": "✍️ Ler e escrever palavras com marcas de nasalidade, como o uso de 'm', 'n' e til (~)."
+            },
+            {
+                "id": "EF02LP06",
+                "texto": "✍️ Compreender o princípio acrofônico relacionado aos nomes das letras do alfabeto."
+            },
+            {
+                "id": "EF02LP07",
+                "texto": "✍️ Escrever palavras, frases e textos curtos utilizando letras de forma e cursiva."
+            },
+            {
+                "id": "EF02LP08",
+                "texto": "✍️ Segmentar corretamente as palavras ao escrever frases e textos."
+            },
+            {
+                "id": "EF02LP09",
+                "texto": "✍️ Utilizar adequadamente sinais de pontuação como ponto final, de interrogação e de exclamação."
+            },
+            {
+                "id": "EF02LP10",
+                "texto": "✍️ Identificar sinônimos e formar antônimos com prefixos de negação como 'in-' e 'im-'."
+            },
+            {
+                "id": "EF02LP11",
+                "texto": "✍️ Formar aumentativos e diminutivos utilizando sufixos como '-ão', '-inho' e '-zinho'."
+            },
+            {
+                "id": "EF02LP12",
+                "texto": "📖 Ler e compreender cantigas e letras de canções, relacionando sua forma e finalidade."
+            },
+            {
+                "id": "EF02LP17",
+                "texto": "📖 Ler e compreender enunciados de tarefas escolares, diagramas, curiosidades, pequenos relatos de experimentos, entrevistas, verbetes de enciclopédia infantil, entre outros gêneros do campo investigativo, considerando a situação comunicativa e o tema/assunto do texto."
+            },
+            {
+                "id": "EF02LP26",
+                "texto": "📖 Ler e compreender, com certa autonomia, textos literários de gêneros variados, desenvolvendo o gosto pela leitura."
+            },
+            {
+                "id": "EF02LP48",
+                "texto": "📖 Ouvir, com atenção e interesse, a leitura feita pelo professor, ou ler, de forma autônoma, textos literários, e expressar preferências por gêneros, temas e autores."
+            },
+            {
+                "id": "EF02LP13",
+                "texto": "📝 Planejar e produzir bilhetes e cartas, em meio impresso e/ou digital, considerando a situação comunicativa e o tema/assunto/finalidade do texto."
+            },
+            {
+                "id": "EF02LP14",
+                "texto": "📝 Planejar e produzir pequenos relatos de observação de processos, de fatos, de experiências pessoais, mantendo as características do gênero."
+            },
+            {
+                "id": "EF02LP15",
+                "texto": "💬 Cantar cantigas e canções, obedecendo ao ritmo e à melodia."
+            },
+            {
+                "id": "EF02LP16",
+                "texto": "📝 Identificar e reproduzir, em bilhetes, recados, avisos, cartas, e-mails, receitas (modo de fazer), relatos (digitais ou impressos), a formatação e diagramação específica de cada um desses gêneros."
+            },
+            {
+                "id": "EF12LP05",
+                "texto": "📝 Planejar e produzir, em colaboração com os colegas e com a ajuda do professor, (re)contagens de histórias, poemas e outros textos versificados (letras de canção, quadrinhas, cordel), poemas visuais, tiras e histórias em quadrinhos, dentre outros gêneros do campo artístico-literário, considerando a situação comunicativa e a finalidade do texto."
+            },
+            {
+                "id": "EF12LP18",
+                "texto": "📖 Apreciar poemas e outros textos versificados, observando rimas, sonoridades, jogos de palavras, reconhecendo seu pertencimento ao mundo imaginário e sua dimensão de encantamento, jogo e fruição."
+            },
+            {
+                "id": "EF12LP19",
+                "texto": "📖 Reconhecer, em textos versificados, rimas, sonoridades, jogos de palavras, palavras, expressões, comparações, relacionando-as com sensações e associações."
+            },
+            {
+                "id": "EF12LP01",
+                "texto": "📖 Ler palavras novas com precisão na decodificação; no caso de palavras de uso frequente, ler globalmente, por memorização."
+            },
+            {
+                "id": "EF12LP02",
+                "texto": "📖 Buscar, selecionar e ler, com a mediação do professor (leitura compartilhada), textos que circulam em meios impressos ou digitais, de acordo com as necessidades e interesses."
+            },
+            {
+                "id": "EF12LP03",
+                "texto": "📝 Copiar textos breves, mantendo suas características e voltando para o texto sempre que tiver dúvidas sobre sua distribuição gráfica, espaçamento entre as palavras, escrita das palavras e pontuação."
+            },
+            {
+                "id": "EF12LP04",
+                "texto": "📖 Ler e compreender, em colaboração com os colegas e com a ajuda do professor ou já com certa autonomia, listas, agendas, calendários, avisos, convites, receitas, instruções de montagem (digitais ou impressos), dentre outros gêneros do campo da vida cotidiana, considerando a situação comunicativa e o tema/assunto do texto e relacionando sua forma de organização à sua finalidade."
+            }
+        ],
+        "objetos_conhecimento": [
+            "📖 Leitura de diferentes gêneros textuais",
+            "📖 Estratégias de antecipação e inferência",
+            "📖 Leitura com fluência",
+            "📖 Compreensão literal e inferencial",
+            "📖 Leitura de imagens, gráficos e sinais",
+            "📖 Uso do conhecimento prévio para interpretação",
+            "📖 Identificação de elementos narrativos",
+            "📖 Opinião sobre textos lidos",
+            "📝 Escrita de pequenos textos narrativos e descritivos",
+            "📝 Planejamento, escrita e revisão textual",
+            "📝 Organização de ideias (início, meio e fim)",
+            "📝 Uso da pontuação básica",
+            "📝 Escrita com coerência e coesão",
+            "📝 Reescrita e produção coletiva",
+            "📝 Uso adequado de letras maiúsculas e minúsculas",
+            "💬 Participação em conversas e apresentações",
+            "💬 Escuta atenta e turnos de fala",
+            "💬 Relato de experiências",
+            "💬 Leitura oral com entonação adequada",
+            "💬 Reconto de histórias",
+            "💬 Uso adequado da linguagem oral",
+            "💬 Debate com respeito e argumentação",
+            "✍️ Ortografia: uso de letras e sons",
+            "✍️ Segmentação de palavras e frases",
+            "✍️ Pontuação básica",
+            "✍️ Classes de palavras básicas",
+            "✍️ Uso do dicionário",
+            "✍️ Formação de palavras",
+            "✍️ Concordância verbal e nominal simples",
+            "✍️ Sinônimos e antônimos",
+            "✍️ Sentido das palavras no contexto"
+        ],
+        "procedimentos": [
+            "Leitura de mesa",
+            "Explanação do conteúdo que será estudado",
+            "Atividade em sala, no livro didático",
+            "Atividade para casa, no caderno",
+            "Explicação do conteúdo trabalhado",
+            "Atividades no livro didático, em sala de aula e para casa",
+            "Atividades xerocopiadas",
+            "Correção das atividades",
+            "Atividade em sala e para casa",
+            "Explanação do tema trabalhado",
+            "Atividade em sala, sobre o assunto estudado",
+            "Atividade extra classe",
+            "NOBRUZEIRA APELAOOO"
+        ],
+        "atividades": [
+            "Leitura",
+            "Explicação do assunto trabalhado",
+            "Atividade em sala com o uso do livro",
+            "Atividade para casa, no caderno",
+            "Folha xerocopiada",
+            "Leitura de mesa",
+            "Correção das atividades anteriores",
+            "Atividade em sala, no livro didático",
+            "Atividade para casa, na folha xerocopiada",
+            "Correção da atividade anterior",
+            "Atividade na folha xerocopiada, para casa",
+            "Explicação do conteúdo",
+            "Atividade em sala, sobre o tema",
+            "Atividade extra sala",
+            "NOBRUZEIRA APELAOOO"
+        ]
+    },
+    "Ciências": {
+        "habilidades": [
+            {
+                "id": "EF02CI04",
+                "texto": "🌿 Descrever características de plantas e animais (tamanho, forma, cor, fase da vida, local onde se desenvolvem etc.) que fazem parte de seu cotidiano e relacioná-las ao ambiente em que vivem."
+            },
+            {
+                "id": "EF02CI05",
+                "texto": "🌿 Investigar a importância da água e da luz para a manutenção da vida de plantas em geral."
+            },
+            {
+                "id": "EF02CI06",
+                "texto": "🌿 Identificar as principais partes de uma planta (raiz, caule, folhas, flores e frutos), a função desempenhada por cada uma delas e analisar as relações entre as plantas, o ambiente e os demais seres vivos."
+            },
+            {
+                "id": "EF02CI01",
+                "texto": "🔬 Identificar de que materiais (metais, madeira, vidro etc.) são feitos os objetos do cotidiano, como são utilizados e com quais materiais eram produzidos no passado."
+            },
+            {
+                "id": "EF02CI02",
+                "texto": "🔬 Propor o uso de diferentes materiais para a construção de objetos de uso cotidiano, considerando propriedades como flexibilidade, dureza, transparência etc."
+            },
+            {
+                "id": "EF02CI03",
+                "texto": "⚠️ Discutir os cuidados necessários à prevenção de acidentes domésticos (objetos cortantes e inflamáveis, eletricidade, produtos de limpeza, medicamentos etc.)."
+            },
+            {
+                "id": "EF02CI07",
+                "texto": "🌞 Descrever as posições do Sol em diversos horários do dia e associá-las ao tamanho da sombra projetada."
+            },
+            {
+                "id": "EF02CI08",
+                "texto": "🌞 Comparar o efeito da radiação solar (aquecimento e reflexão) em diferentes tipos de superfície (água, areia, solo, superfícies escuras, claras e metálicas etc.)."
+            }
+        ],
+        "objetos_conhecimento": [
+            "🧬 Características dos seres vivos",
+            "🧬 Plantas: partes, funções e necessidades vitais",
+            "🧬 Animais: habitat, alimentação, desenvolvimento",
+            "🧬 Relação dos seres vivos com o ambiente",
+            "🧬 Cuidados com o ambiente",
+            "🔎 Materiais: tipos, usos e propriedades",
+            "🔎 Transformações dos materiais",
+            "🔎 Luz, sombra e reflexão",
+            "🔎 Calor e aquecimento de materiais",
+            "🌎 Movimento aparente do Sol",
+            "🌎 Sombra e luminosidade",
+            "🌎 Superfícies e absorção de calor",
+            "🧼 Higiene pessoal e coletiva",
+            "🧼 Hábitos saudáveis",
+            "🧼 Prevenção de acidentes",
+            "🧼 Sinais vitais e cuidados com o corpo"
+        ],
+        "procedimentos": [
+            "Leitura de mesa",
+            "Explanação do conteúdo que será estudado",
+            "Atividade em sala, no livro didático",
+            "Atividade para casa, no caderno",
+            "Explicação do conteúdo trabalhado",
+            "Atividades no livro didático, em sala de aula e para casa",
+            "Atividades xerocopiadas",
+            "Correção das atividades",
+            "Atividade em sala e para casa",
+            "Explanação do tema trabalhado",
+            "Atividade em sala, sobre o assunto estudado",
+            "Atividade extra classe"
+        ],
+        "atividades": [
+            "Leitura",
+            "Explicação do assunto trabalhado",
+            "Atividade em sala com o uso do livro",
+            "Atividade para casa, no caderno",
+            "Folha xerocopiada",
+            "Leitura de mesa",
+            "Correção das atividades anteriores",
+            "Atividade em sala, no livro didático",
+            "Atividade para casa, na folha xerocopiada",
+            "Correção da atividade anterior",
+            "Atividade na folha xerocopiada, para casa",
+            "Explicação do conteúdo",
+            "Atividade em sala, sobre o tema",
+            "Atividade extra sala"
+        ]
+    },
+    "Arte": {
+        "habilidades": [
+            {
+                "id": "EF15AR01",
+                "texto": "🎨 Identificar e apreciar formas distintas das artes visuais tradicionais e contemporâneas, cultivando a percepção, o imaginário, a capacidade de simbolizar e o repertório imagético."
+            },
+            {
+                "id": "EF15AR02",
+                "texto": "🎨 Explorar e reconhecer elementos constitutivos das artes visuais (ponto, linha, forma, cor, espaço, movimento etc.)."
+            },
+            {
+                "id": "EF15AR03",
+                "texto": "🎨 Reconhecer e analisar a influência de distintas matrizes estéticas e culturais das artes visuais nas manifestações artísticas das culturas locais, regionais e nacionais."
+            },
+            {
+                "id": "EF15AR04",
+                "texto": "🎨 Experimentar diferentes formas de expressão artística (desenho, pintura, colagem, quadrinhos, dobradura, escultura, modelagem, instalação, vídeo, fotografia etc.), fazendo uso sustentável de materiais, instrumentos, recursos e técnicas convencionais e não convencionais."
+            },
+            {
+                "id": "EF15AR05",
+                "texto": "🎨 Experimentar a criação em artes visuais de modo individual, coletivo e colaborativo, explorando diferentes espaços da escola e da comunidade."
+            },
+            {
+                "id": "EF15AR06",
+                "texto": "🎨 Dialogar sobre a sua criação e as dos colegas, para alcançar sentidos plurais."
+            },
+            {
+                "id": "EF15AR07",
+                "texto": "🎨 Reconhecer algumas categorias do sistema das artes visuais (museus, galerias, instituições, artistas, artesãos, curadores etc.)."
+            },
+            {
+                "id": "EF15AR08",
+                "texto": "💃 Experimentar e apreciar formas distintas de manifestações da dança presentes em diferentes contextos, cultivando a percepção, o imaginário, a capacidade de simbolizar e o repertório corporal."
+            },
+            {
+                "id": "EF15AR09",
+                "texto": "💃 Estabelecer relações entre as partes do corpo e destas com o todo corporal na construção do movimento dançado."
+            },
+            {
+                "id": "EF15AR10",
+                "texto": "💃 Experimentar diferentes formas de orientação no espaço (deslocamentos, planos, direções, caminhos etc.) e ritmos de movimento (lento, moderado e rápido) na construção do movimento dançado."
+            },
+            {
+                "id": "EF15AR11",
+                "texto": "💃 Criar e improvisar movimentos dançados de modo individual, coletivo e colaborativo, considerando os aspectos estruturais, dinâmicos e expressivos dos elementos constitutivos do movimento, com base nos códigos de dança."
+            },
+            {
+                "id": "EF15AR12",
+                "texto": "💃 Discutir, com respeito e sem preconceito, as experiências pessoais e coletivas em dança vivenciadas na escola, como fonte para a construção de vocabulários e repertórios próprios."
+            },
+            {
+                "id": "EF15AR13",
+                "texto": "🎵 Identificar e apreciar criticamente diversas formas e gêneros de expressão musical, reconhecendo e analisando os usos e as funções da música em diversos contextos de circulação, em especial, aqueles da vida cotidiana."
+            },
+            {
+                "id": "EF15AR14",
+                "texto": "🎵 Perceber e explorar os elementos constitutivos da música (altura, intensidade, timbre, melodia, ritmo etc.), por meio de jogos, brincadeiras, canções e práticas diversas de composição/criação, execução e apreciação musical."
+            },
+            {
+                "id": "EF15AR15",
+                "texto": "🎵 Explorar fontes sonoras diversas, como as existentes no próprio corpo (palmas, voz, percussão corporal), na natureza e em objetos cotidianos, reconhecendo os elementos constitutivos da música e as características de instrumentos musicais variados."
+            },
+            {
+                "id": "EF15AR16",
+                "texto": "🎵 Explorar diferentes formas de registro musical não convencional (representação gráfica de sons, partituras criativas etc.), bem como procedimentos e técnicas de registro em áudio e audiovisual, e reconhecer a notação musical convencional."
+            },
+            {
+                "id": "EF15AR17",
+                "texto": "🎵 Experimentar improvisações, composições e sonorização de histórias, entre outros, utilizando vozes, sons corporais e/ou instrumentos musicais convencionais ou não convencionais, de modo individual, coletivo e colaborativo."
+            }
+        ],
+        "objetos_conhecimento": [
+            "🎨 Elementos visuais da linguagem: ponto, linha, forma, cor, textura",
+            "🎨 Repertório visual do cotidiano e artístico",
+            "🎨 Técnicas e materiais diversos",
+            "🎨 Produção artística individual e coletiva",
+            "🎨 Fruição e apreciação de obras",
+            "💃 Elementos do movimento: tempo, espaço, peso e fluência",
+            "💃 Criação coreográfica",
+            "💃 Expressão corporal",
+            "💃 Danças culturais e populares",
+            "💃 Interação e respeito em práticas coletivas",
+            "🎭 Jogos de faz de conta e dramatizações",
+            "🎭 Personagens e histórias",
+            "🎭 Expressão de sentimentos e ideias",
+            "🎭 Uso do corpo e da voz",
+            "🎭 Espaço cênico",
+            "🎵 Sons do corpo e da natureza",
+            "🎵 Instrumentos convencionais e alternativos",
+            "🎵 Timbres, ritmos e melodias",
+            "🎵 Canções do repertório infantil e popular",
+            "🎵 Criação e experimentação sonora"
+        ],
+        "procedimentos": [
+            "Leitura de mesa",
+            "Explanação do conteúdo que será estudado",
+            "Atividade em sala, no livro didático",
+            "Atividade para casa, no caderno",
+            "Explicação do conteúdo trabalhado",
+            "Atividades no livro didático, em sala de aula e para casa",
+            "Atividades xerocopiadas",
+            "Correção das atividades",
+            "Atividade em sala e para casa",
+            "Explanação do tema trabalhado",
+            "Atividade em sala, sobre o assunto estudado",
+            "Atividade extra classe"
+        ],
+        "atividades": [
+            "Leitura",
+            "Explicação do assunto trabalhado",
+            "Atividade em sala com o uso do livro",
+            "Atividade para casa, no caderno",
+            "Folha xerocopiada",
+            "Leitura de mesa",
+            "Correção das atividades anteriores",
+            "Atividade em sala, no livro didático",
+            "Atividade para casa, na folha xerocopiada",
+            "Correção da atividade anterior",
+            "Atividade na folha xerocopiada, para casa",
+            "Explicação do conteúdo",
+            "Atividade em sala, sobre o tema",
+            "Atividade extra sala"
+        ]
+    },
+    "Ensino Religioso": {
+        "habilidades": [
+            {
+                "id": "EF02ER01",
+                "texto": "🧍 Reconhecer os diferentes espaços de convivência."
+            },
+            {
+                "id": "EF02ER02",
+                "texto": "🧍 Identificar costumes, crenças e formas diversas de viver em variados ambientes de convivência."
+            },
+            {
+                "id": "EF02ER03",
+                "texto": "📝 Identificar e preservar diferentes formas de registro das memórias pessoais, familiares e escolares."
+            },
+            {
+                "id": "EF02ER04",
+                "texto": "📝 Identificar sinais e símbolos presentes nos variados espaços de convivência."
+            },
+            {
+                "id": "EF02ER05",
+                "texto": "📝 Identificar, distinguir e respeitar símbolos religiosos de distintas manifestações, tradições e instituições religiosas."
+            },
+            {
+                "id": "EF02ER06",
+                "texto": "📝 Exemplificar alimentos considerados sagrados por diferentes culturas, tradições e expressões religiosas."
+            },
+            {
+                "id": "EF02ER07",
+                "texto": "📝 Identificar significados atribuídos a alimentos em diferentes manifestações e tradições religiosas."
+            },
+            {
+                "id": "EF02ER08",
+                "texto": "🤝 Desenvolver atitudes de cooperação, cuidado e preservação dos ambientes sociais, culturais e naturais de convivência."
+            },
+            {
+                "id": "EF02ER09",
+                "texto": "🤝 Valorizar a família, percebendo as diferentes formas de constituição e pertencimento."
+            },
+            {
+                "id": "EF02ER10",
+                "texto": "🤝 Identificar e respeitar costumes, crenças e formas de viver em variados ambientes de convivência, com colegas, familiares, pessoas idosas, etc."
+            },
+            {
+                "id": "EF02ER11",
+                "texto": "🌐 Reconhecer e respeitar a diversidade de formas de vida e manifestações culturais e religiosas presentes em sua comunidade."
+            },
+            {
+                "id": "EF02ER12",
+                "texto": "🌐 Identificar e valorizar as diferentes expressões religiosas e culturais presentes no Brasil e no mundo."
+            }
+        ],
+        "objetos_conhecimento": [
+            "🧍 Ambientes de convivência",
+            "🧍 Relações familiares e sociais",
+            "🧍 Respeito à diversidade",
+            "🧍 Formas de pertencimento",
+            "🗂️ Símbolos religiosos e culturais",
+            "🗂️ Datas comemorativas e festas religiosas",
+            "🗂️ Significados dos alimentos sagrados",
+            "🗂️ Objetos simbólicos e rituais",
+            "🤝 Cooperação, solidariedade e respeito",
+            "🤝 Cuidado com a vida e o meio ambiente",
+            "🤝 Valores compartilhados entre religiões",
+            "🤝 Convivência pacífica e diálogo",
+            "🌐 Tradições religiosas do Brasil e do mundo",
+            "🌐 Cultura e religiosidade em diferentes contextos",
+            "🌐 Respeito às diferentes expressões religiosas",
+            "🌐 Patrimônio cultural e religioso"
+        ],
+        "procedimentos": [
+            "Leitura de mesa",
+            "Explanação do conteúdo que será estudado",
+            "Atividade em sala, no livro didático",
+            "Atividade para casa, no caderno",
+            "Explicação do conteúdo trabalhado",
+            "Atividades no livro didático, em sala de aula e para casa",
+            "Atividades xerocopiadas",
+            "Correção das atividades",
+            "Atividade em sala e para casa",
+            "Explanação do tema trabalhado",
+            "Atividade em sala, sobre o assunto estudado",
+            "Atividade extra classe"
+        ],
+        "atividades": [
+            "Leitura",
+            "Explicação do assunto trabalhado",
+            "Atividade em sala com o uso do livro",
+            "Atividade para casa, no caderno",
+            "Folha xerocopiada",
+            "Leitura de mesa",
+            "Correção das atividades anteriores",
+            "Atividade em sala, no livro didático",
+            "Atividade para casa, na folha xerocopiada",
+            "Correção da atividade anterior",
+            "Atividade na folha xerocopiada, para casa",
+            "Explicação do conteúdo",
+            "Atividade em sala, sobre o tema",
+            "Atividade extra sala"
+        ]
+    },
+    "História": {
+    "habilidades": [
+      { "id": "EF02HI01", "texto": "📜 Identificar diferentes registros históricos e reconhecer sua importância para a compreensão do passado." },
+      { "id": "EF02HI02", "texto": "📜 Distinguir passado e presente em situações da vida cotidiana." },
+      { "id": "EF02HI03", "texto": "📜 Reconhecer datas comemorativas e sua relação com a história local e nacional." },
+      { "id": "EF02HI04", "texto": "📜 Compreender mudanças e permanências no modo de vida das pessoas ao longo do tempo." },
+      { "id": "EF02HI05", "texto": "📜 Identificar aspectos da cultura e do cotidiano de diferentes épocas e lugares." },
+      { "id": "EF02HI06", "texto": "📜 Relatar histórias da família e da comunidade, identificando gerações e vínculos." },
+      { "id": "EF02HI07", "texto": "📜 Comparar brinquedos e brincadeiras do passado e do presente." },
+      { "id": "EF02HI08", "texto": "📜 Conhecer marcos históricos do município e sua relevância." },
+      { "id": "EF02HI09", "texto": "📜 Utilizar fontes visuais, orais e escritas para obter informações sobre o passado." },
+      { "id": "EF02HI10", "texto": "📜 Organizar informações sobre o tempo histórico em linhas do tempo simples." },
+      { "id": "EF02HI11", "texto": "🏛️ Identificar monumentos e patrimônios culturais locais." },
+      { "id": "EF02HI12", "texto": "🏛️ Valorizar a diversidade cultural e a memória das comunidades." },
+      { "id": "EF02HI13", "texto": "🏛️ Compreender o papel da escola como espaço de construção histórica e social." },
+      { "id": "EF02HI14", "texto": "🏛️ Reconhecer o papel das festas e tradições culturais como parte da história." },
+      { "id": "EF02HI15", "texto": "🏛️ Identificar personagens históricos importantes do Brasil." },
+      { "id": "EF02HI16", "texto": "🏛️ Desenvolver noções de tempo cronológico (dia, mês, ano)." },
+      { "id": "EF02HI17", "texto": "🏛️ Compreender a função dos museus e arquivos na preservação da história." },
+      { "id": "EF02HI18", "texto": "🏛️ Interpretar diferentes formas de registros históricos: músicas, desenhos, fotografias, filmes." },
+      { "id": "EF02HI19", "texto": "🏛️ Compreender os impactos da colonização nas populações indígenas e africanas." },
+      { "id": "EF02HI20", "texto": "🏛️ Reconhecer a contribuição de diferentes povos para a formação do Brasil." }
+    ],
+    "objetos_conhecimento": [
+      "📜 Fontes históricas: orais, escritas, visuais e materiais",
+      "📜 Noções de tempo: passado, presente e futuro",
+      "📜 Calendário e datas comemorativas",
+      "📜 Linhas do tempo",
+      "📜 Biografias e histórias da família",
+      "📜 Cotidiano e modos de vida",
+      "📜 Brinquedos e brincadeiras do passado e do presente",
+      "📜 Patrimônio cultural e histórico",
+      "📜 Monumentos e lugares históricos",
+      "📜 Personagens da história brasileira",
+      "🏛️ Tradições culturais locais",
+      "🏛️ Diversidade cultural",
+      "🏛️ Festas populares",
+      "🏛️ Escola como espaço de memória",
+      "🏛️ Museus e arquivos",
+      "🏛️ Povos indígenas e africanos na formação do Brasil",
+      "🏛️ História local e municipal",
+      "🏛️ Cultura e identidade",
+      "🏛️ Conflitos e resistências históricas",
+      "🏛️ Mudanças tecnológicas e seus impactos"
+    ],
+    "procedimentos": [
+      "📚 Leitura de mesa",
+      "📚 Contação de histórias",
+      "📚 Entrevistas com familiares",
+      "📚 Linha do tempo com fotos",
+      "📚 Visita a espaços históricos",
+      "📚 Construção de maquetes",
+      "📚 Atividades com imagens antigas",
+      "📚 Debate sobre tradições culturais",
+      "📚 Confecção de cartazes",
+      "📚 Análise de músicas e vídeos antigos",
+      "🕰️ Comparação de costumes",
+      "🕰️ Produção de textos históricos",
+      "🕰️ Jogos de perguntas e respostas",
+      "🕰️ Desenho de cenas do passado",
+      "🕰️ Produção de jornais históricos",
+      "🕰️ Atividades em grupo sobre identidade",
+      "🕰️ Leitura de biografias infantis",
+      "🕰️ Entrevistas simuladas com personagens históricos",
+      "🕰️ Roda de conversa sobre memórias",
+      "🕰️ Montagem de linha do tempo coletiva"
+    ],
+    "atividades": [
+        "Leitura",
+            "Explicação do assunto trabalhado",
+            "Atividade em sala com o uso do livro",
+            "Atividade para casa, no caderno",
+            "Folha xerocopiada",
+            "Leitura de mesa",
+            "Correção das atividades anteriores",
+            "Atividade em sala, no livro didático",
+            "Atividade para casa, na folha xerocopiada",
+            "Correção da atividade anterior",
+            "Atividade na folha xerocopiada, para casa",
+            "Explicação do conteúdo",
+            "Atividade em sala, sobre o tema",
+            "Atividade extra sala",
+      "📖 Leitura compartilhada",
+      "📖 Escrita de relatos de memória",
+      "📖 Montagem de linha do tempo",
+      "📖 Confecção de álbum de família",
+      "📖 Ilustração de cenas do passado",
+      "📖 Entrevista com idosos",
+      "📖 Roda de conversa sobre festas tradicionais",
+      "📖 Análise de músicas antigas",
+      "📖 Teatro de época",
+      "📖 Cartaz sobre patrimônio cultural",
+      "🏺 Pesquisa sobre personagens históricos",
+      "🏺 Desenho de brinquedos antigos",
+      "🏺 Reconto de histórias",
+      "🏺 Produção de carta para o passado",
+      "🏺 Jogo da memória histórica",
+      "🏺 Visita virtual a museus",
+      "🏺 Construção de mini-biografias",
+      "🏺 Leitura de textos históricos infantis",
+      "🏺 Confecção de mural de tradições",
+      "🏺 Reescrita de histórias familiares"
+    ]
+  },
+
+  "Educação Física": {
+  "habilidades": [
+    { "id": "EF02EF01", "texto": "🏃‍♂️ Praticar diferentes formas de locomoção em jogos e brincadeiras." },
+    { "id": "EF02EF02", "texto": "🏃‍♂️ Participar de jogos coletivos respeitando regras e colegas." },
+    { "id": "EF02EF06", "texto": "🏃‍♂️ Aperfeiçoar a precisão de movimentos em jogos de arremesso." },
+    { "id": "EF02EF09", "texto": "🏃‍♂️ Cooperar com os colegas em atividades que envolvam revezamento." },
+    { "id": "EF02EF13", "texto": "🏃‍♂️ Utilizar o espaço com segurança durante atividades físicas." },
+    { "id": "EF02EF14", "texto": "🏃‍♂️ Participar de jogos de alvo com estratégias simples." },
+    { "id": "EF02EF16", "texto": "🏃‍♂️ Combinar corrida, salto e equilíbrio em percursos variados." },
+    { "id": "EF02EF19", "texto": "🏃‍♂️ Participar de atividades com espírito de equipe." },
+    
+    { "id": "EF02EF03", "texto": "🤸‍♂️ Desenvolver o equilíbrio e a coordenação em circuitos e desafios." },
+    { "id": "EF02EF04", "texto": "🤸‍♂️ Controlar a bola com diferentes partes do corpo em atividades motoras." },
+    { "id": "EF02EF07", "texto": "🤸‍♂️ Realizar movimentos corporais com agilidade e criatividade." },
+    { "id": "EF02EF08", "texto": "🤸‍♂️ Reconhecer as partes do corpo e suas funções em atividades práticas." },
+    { "id": "EF02EF11", "texto": "🤸‍♂️ Experimentar diferentes materiais e objetos em atividades motoras." },
+    { "id": "EF02EF12", "texto": "🤸‍♂️ Respeitar a diversidade corporal entre os colegas." },
+    { "id": "EF02EF15", "texto": "🤸‍♂️ Realizar movimentos de empurrar, puxar, lançar e receber." },
+    
+    { "id": "EF02EF05", "texto": "🎶 Explorar ritmos e movimentos por meio de danças e brincadeiras cantadas." },
+    { "id": "EF02EF20", "texto": "🎶 Relacionar movimento corporal com expressão de sentimentos." },
+    
+    { "id": "EF02EF10", "texto": "🧠 Compreender o valor da concentração e atenção durante os jogos." },
+    { "id": "EF02EF17", "texto": "🧠 Identificar os benefícios da atividade física para a saúde." },
+    { "id": "EF02EF18", "texto": "🧠 Compreender regras básicas de segurança nas práticas físicas." }
+  ],
+  "objetos_conhecimento": [
+    "🏃‍♂️ Habilidades motoras básicas: correr, saltar, rolar",
+    "🏃‍♂️ Jogos cooperativos",
+    "🏃‍♂️ Jogos com bola",
+    "🏃‍♂️ Atividades de revezamento",
+    "🏃‍♂️ Segurança nas atividades físicas",
+    "🏃‍♂️ Jogos de alvo",
+    "🏃‍♂️ Espírito esportivo",
+    
+    "🤸‍♂️ Equilíbrio e coordenação motora",
+    "🤸‍♂️ Lançamentos e recepções",
+    "🤸‍♂️ Uso de materiais variados",
+    "🤸‍♂️ Percepção corporal e espacial",
+    "🤸‍♂️ Diversidade corporal",
+    "🤸‍♂️ Partes do corpo",
+    
+    "🎶 Ritmos e danças",
+    "🎶 Expressão corporal",
+    "🎶 Emoções e movimento",
+    "🎶 Brincadeiras populares",
+    
+    "🧠 Atenção e concentração",
+    "🧠 Saúde e bem-estar",
+    "🧠 Regras de convivência"
+  ],
+  "procedimentos": [
+    "🏃‍♂️ Circuitos motores",
+    "🏃‍♂️ Jogos de precisão",
+    "🏃‍♂️ Minijogos com bola",
+    "🏃‍♂️ Brincadeiras em dupla",
+    "🏃‍♂️ Revezamentos simples",
+    "🏃‍♂️ Caminhadas com obstáculos",
+    "🏃‍♂️ Jogos cooperativos",
+    "🏃‍♂️ Lançamento em alvos",
+    "🏃‍♂️ Percursos variados",
+    
+    "🤸‍♂️ Atividades de equilíbrio",
+    "🤸‍♂️ Desafios corporais",
+    "🤸‍♂️ Identificação de partes do corpo",
+    "🤸‍♂️ Atividades de inclusão",
+    "🤸‍♂️ Brincadeiras com elásticos e cordas",
+    
+    "🎶 Roda de danças",
+    "🎶 Expressão corporal com música",
+    "🎶 Jogo das emoções e movimentos",
+    
+    "🧠 Alongamentos guiados",
+    "🧠 Jogo da atenção",
+    "🧠 Conversas sobre segurança"
+  ],
+  "atividades": [
+    "Leitura",
+            "Explicação do assunto trabalhado",
+            "Atividade em sala com o uso do livro",
+            "Atividade para casa, no caderno",
+            "Folha xerocopiada",
+            "Leitura de mesa",
+            "Correção das atividades anteriores",
+            "Atividade em sala, no livro didático",
+            "Atividade para casa, na folha xerocopiada",
+            "Correção da atividade anterior",
+            "Atividade na folha xerocopiada, para casa",
+            "Explicação do conteúdo",
+            "Atividade em sala, sobre o tema",
+            "Atividade extra sala",
+    "🏃‍♂️ Corrida com obstáculos",
+    "🏃‍♂️ Jogo de revezamento",
+    "🏃‍♂️ Arremesso em alvos",
+    "🏃‍♂️ Brincadeiras coletivas",
+    "🏃‍♂️ Minitorneio com bola",
+
+    "🤸‍♂️ Desafio do equilíbrio com objetos",
+    "🤸‍♂️ Montagem de circuito motor",
+    "🤸‍♂️ Jogo de empurrar/puxar",
+    "🤸‍♂️ Brincadeiras com bambolê e corda",
+    "🤸‍♂️ Atividades de mímica corporal",
+
+    "🎶 Dança das cadeiras",
+    "🎶 Dança livre com ritmos variados",
+    "🎶 Brincadeiras com cantigas",
+    "🎶 Atividades de expressão com música",
+    "🎶 Representação de emoções com o corpo",
+
+    "🧠 Jogo da concentração",
+    "🧠 Discussão sobre segurança nas atividades",
+    "🧠 Roda de conversa sobre saúde e bem-estar",
+    "🧠 Jogo de atenção com obstáculos",
+    "🧠 Desenho sobre o corpo e seus movimentos"
+  ]
+},
+"Geografia": {
+  "habilidades": [
+    { "id": "EF02GE01", "texto": "🗺️ Identificar diferentes tipos de espaços (urbanos, rurais, naturais)." },
+    { "id": "EF02GE06", "texto": "🗺️ Analisar transformações na paisagem causadas pela ação humana." },
+    { "id": "EF02GE11", "texto": "🗺️ Identificar representações do espaço em imagens e desenhos." },
+    { "id": "EF02GE16", "texto": "🗺️ Interpretar mapas simples e identificar símbolos." },
+    
+    { "id": "EF02GE02", "texto": "🌍 Observar e descrever paisagens do entorno da escola e da comunidade." },
+    { "id": "EF02GE07", "texto": "🌍 Identificar elementos naturais e artificiais nas paisagens." },
+    { "id": "EF02GE12", "texto": "🌍 Conhecer formas de preservação do meio ambiente local." },
+    { "id": "EF02GE17", "texto": "🌍 Compreender a importância da água, solo e vegetação." },
+    
+    { "id": "EF02GE03", "texto": "🧭 Localizar objetos e lugares utilizando pontos de referência." },
+    { "id": "EF02GE08", "texto": "🧭 Utilizar mapas simples e croquis para orientação." },
+    { "id": "EF02GE13", "texto": "🧭 Compreender os pontos cardeais em atividades práticas." },
+    { "id": "EF02GE18", "texto": "🧭 Localizar-se e orientar-se usando mapas ilustrados." },
+    
+    { "id": "EF02GE04", "texto": "🏘️ Reconhecer diferentes formas de moradia e organização do espaço." },
+    { "id": "EF02GE09", "texto": "🏘️ Diferenciar espaços públicos e privados." },
+    { "id": "EF02GE14", "texto": "🏘️ Analisar a função de estabelecimentos na comunidade." },
+    { "id": "EF02GE19", "texto": "🏘️ Relacionar moradias com as condições naturais da região." },
+    
+    { "id": "EF02GE05", "texto": "🚶‍♂️ Compreender o deslocamento como parte da vivência no espaço." },
+    { "id": "EF02GE10", "texto": "🚶‍♂️ Compreender o trajeto casa-escola e suas características." },
+    { "id": "EF02GE15", "texto": "🚶‍♂️ Descrever caminhos e rotas percorridas no cotidiano." },
+    { "id": "EF02GE20", "texto": "🚶‍♂️ Valorizar o cuidado com os espaços frequentados." }
+  ],
+  "objetos_conhecimento": [
+    "🗺️ Tipos de paisagens",
+    "🗺️ Leitura e interpretação de mapas",
+    "🗺️ Representações cartográficas",
+    "🗺️ Cartografia infantil",
+    
+    "🌍 Elementos naturais e artificiais",
+    "🌍 Preservação do meio ambiente",
+    "🌍 Recursos naturais e sustentabilidade",
+    "🌍 Paisagens modificadas",
+    
+    "🧭 Pontos de referência e orientação",
+    "🧭 Uso de bússola e pontos cardeais",
+    "🧭 Localização e direção",
+    "🧭 Simbologia cartográfica",
+    
+    "🏘️ Moradias e espaços urbanos e rurais",
+    "🏘️ Comunidade e organização espacial",
+    "🏘️ Uso dos espaços públicos",
+    "🏘️ Identidade dos lugares",
+    
+    "🚶‍♂️ Deslocamentos e trajetos",
+    "🚶‍♂️ Caminhos cotidianos",
+    "🚶‍♂️ Circulação e mobilidade",
+    "🚶‍♂️ Percepção espacial"
+  ],
+  "procedimentos": [
+    "🗺️ Observação do entorno escolar",
+    "🗺️ Análise de mapas simples",
+    "🗺️ Confecção de croquis",
+    "🗺️ Análise de fotografias aéreas",
+    
+    "🌍 Desenho de paisagens locais",
+    "🌍 Produção de maquetes de paisagens",
+    "🌍 Coleta de elementos naturais",
+    "🌍 Discussão sobre preservação ambiental",
+    
+    "🧭 Atividades com bússola de papel",
+    "🧭 Jogo dos pontos cardeais",
+    "🧭 Atividades com rosa dos ventos",
+    "🧭 Jogos de localização",
+    
+    "🏘️ Entrevistas com moradores sobre o bairro",
+    "🏘️ Mapeamento dos espaços da comunidade",
+    "🏘️ Estudo de estabelecimentos locais",
+    "🏘️ Representação da rua em cartaz",
+    
+    "🚶‍♂️ Caminhada exploratória",
+    "🚶‍♂️ Traçado do caminho casa-escola",
+    "🚶‍♂️ Percursos com referências visuais",
+    "🚶‍♂️ Atividades em duplas para descrever trajetos"
+  ],
+  "atividades": [
+    "Leitura",
+            "Explicação do assunto trabalhado",
+            "Atividade em sala com o uso do livro",
+            "Atividade para casa, no caderno",
+            "Folha xerocopiada",
+            "Leitura de mesa",
+            "Correção das atividades anteriores",
+            "Atividade em sala, no livro didático",
+            "Atividade para casa, na folha xerocopiada",
+            "Correção da atividade anterior",
+            "Atividade na folha xerocopiada, para casa",
+            "Explicação do conteúdo",
+            "Atividade em sala, sobre o tema",
+            "Atividade extra sala",
+    "🗺️ Montagem de mapa do bairro",
+    "🗺️ Pintura de mapas com legendas",
+    "🗺️ Montagem de cartaz com símbolos cartográficos",
+    "🗺️ Confecção de mural geográfico",
+    
+    "🌍 Criação de painéis sobre paisagens",
+    "🌍 Plantio no jardim da escola",
+    "🌍 Oficina sobre reciclagem e natureza",
+    "🌍 Debate sobre cuidado com o ambiente",
+    
+    "🧭 Caça ao tesouro com pontos cardeais",
+    "🧭 Brincadeira da rosa dos ventos",
+    "🧭 Desenho do trajeto escolar",
+    "🧭 Montagem de mini-bússola",
+    
+    "🏘️ Maquete da comunidade escolar",
+    "🏘️ Entrevista com profissionais da vizinhança",
+    "🏘️ Cartaz coletivo com moradias diversas",
+    "🏘️ Construção de bairro fictício",
+    
+    "🚶‍♂️ Caminhada com registro fotográfico",
+    "🚶‍♂️ Produção de diário de deslocamento",
+    "🚶‍♂️ Jogo de memória com paisagens",
+    "🚶‍♂️ Criação de história com deslocamento"
+  ]
+}
+}
